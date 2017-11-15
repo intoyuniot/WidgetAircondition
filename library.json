@@ -1,0 +1,17 @@
+{
+    "name": "WidgetAircondition",
+    "version": "1.0.0",
+    "keywords": "Widget,Aircondition",
+    "description": "空调遥控应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetAircondition.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
